@@ -1,0 +1,23 @@
+body{
+	background-color: #DEDEDE;
+}
+.img{
+	max-width: 100%;
+}
+.menu{
+	color: black;
+	position: absolute;
+	float: top 10px;
+	top: 0px;
+}
+header img{
+	width: 200px;
+}article img{
+	max-width: 20rem;
+}
+article{
+	display: block;
+}
+div.container{
+	background-color: : #FF5733;
+}
